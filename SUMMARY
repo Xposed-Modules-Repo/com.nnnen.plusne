@@ -28,36 +28,7 @@ TikTok	去除视频中广告
 TikTok	打开评论暂停
 TikTok	禁用双击点赞
 TikTok	双击操作
-TikTok	基本设置
-TikTok	隐藏界面组件
-TikTok	自动播放
-TikTok	视频过滤
-TikTok	中断过滤
-TikTok	视频类型过滤
-TikTok	视频字符串过滤
-TikTok	弹窗显示视频类型
-TikTok	去除视频中广告
-TikTok	智能滑动
-TikTok	自动播放
-TikTok	打开评论暂停
-TikTok	设置默认地区
-TikTok	解除下载限制
-TikTok	无水印下载视频
-TikTok	去除上下黑边
-TikTok	禁用双击点赞
-TikTok	切换隐藏总开关
-TikTok	隐藏头像关注按钮
-TikTok	隐藏点赞按钮
-TikTok	隐藏评论按钮
-TikTok	隐藏收藏按钮
-TikTok	隐藏分享按钮
-TikTok	隐藏作者,描述,等
-TikTok	隐藏音乐封面
-TikTok	隐藏底部Tab
-TikTok	隐藏底部进度条
-TikTok	隐藏顶部Tab
-TikTok	长按操作
-TikTok	双击操作
+
 抖音	基本设置
 抖音	去除启动广告
 抖音	隐藏界面组件
@@ -124,6 +95,9 @@ TikTok	双击操作
 抖音	音量键减小
 抖音	切换视频时,执行隐藏View设置
 抖音	取消隐藏View时打开评论列表
+抖音	沉浸式全屏
+抖音	隐藏日期显示
+
 抖音极速版	基本设置
 抖音极速版	隐藏界面组件
 抖音极速版	下载相关
@@ -192,5 +166,3 @@ TikTok	双击操作
 抖音极速版	取消隐藏View时打开评论列表
 抖音极速版	隐藏左上角红包
 抖音极速版	沉浸式全屏
-抖音	沉浸式全屏
-抖音	隐藏日期显示
