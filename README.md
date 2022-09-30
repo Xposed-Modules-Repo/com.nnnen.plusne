@@ -7,7 +7,14 @@
 https://v1.nnnen.com/tools/Api/DownPlusNE
 
 # 使用方法
-https://help.nnnen.com/
+
+在框架中勾选PlusNE,并且设置作用域
+<br>
+1.进入抖音\抖音极速版等
+<br>
+2.打开设置页面
+<br>
+3.拉到最下面点击PlusNE版本信息即可
 
 # 软件截图->抖音
 ![](https://img.nnnen.com/EBF0ED0D339FC869596CCB94C3B92B28.jpg)
