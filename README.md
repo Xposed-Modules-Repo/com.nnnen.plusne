@@ -1,6 +1,9 @@
 # PlusNE(NE+重置版)
 现阶段支持 抖音 抖音极速版 Tiktok MX播放器
 
+
+已支持Soul 4.49.0
+
 注册会员和NE+会员通用
 
 # download/下载
