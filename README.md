@@ -1,4 +1,8 @@
 # PlusNE(NE+重置版)
+
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.nnnen.plusne">
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.nnnen.plusne/total">
+
 现阶段支持 
 抖音 
 <br>
