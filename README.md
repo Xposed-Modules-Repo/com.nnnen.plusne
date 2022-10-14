@@ -3,7 +3,7 @@
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.nnnen.plusne">   <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.nnnen.plusne/total">
 
 
-现阶段支持 
+现阶段支持 <br>
 soul<br>TikTok<br>七猫免费小说<br>唱吧<br>小红书<br>微博<br>快手<br>快手极速版<br>抖音<br>抖音极速版<br>最右<br>番茄免费小说<br>百度贴吧<br>皮皮搞笑<br>皮皮虾<br>西瓜视频<br>酷我音乐<br>
 
 注册会员和NE+会员通用
