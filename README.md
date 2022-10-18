@@ -3,6 +3,10 @@
 测试期间可能更新频繁,请谅解
 <br>
 
+<br>
+帮助文档:https://www.nnnen.com/forums?index=3
+<br>
+
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.nnnen.plusne">   <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.nnnen.plusne/total">
 
 
