@@ -1,7 +1,4 @@
 # PlusNE(NE+重置版)
-<br>
-测试期间可能更新频繁,请谅解
-<br>
 
 <br>
 帮助文档:https://www.nnnen.com/forums?index=3
