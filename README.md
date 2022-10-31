@@ -27,10 +27,10 @@
 
 注册会员和NE+会员通用
 
-# download/下载
+ download/下载
 https://v1.nnnen.com/tools/Api/DownPlusNE
 
-# 使用方法
+ 使用方法
 
 在框架中勾选PlusNE,并且设置作用域
 <br>
@@ -40,7 +40,7 @@ https://v1.nnnen.com/tools/Api/DownPlusNE
 <br>
 3.拉到最下面点击PlusNE版本信息即可
 
-# 软件截图->抖音
+ 软件截图->抖音
 ![](https://img.nnnen.com/EBF0ED0D339FC869596CCB94C3B92B28.jpg)
 ![](https://img.nnnen.com/D85C8486DB5A7566A3BB9C8AA6FC8C0A.jpg)
 ![](https://img.nnnen.com/7413477CE1496CB865E7C3C056472D22.jpg)
