@@ -25,10 +25,6 @@
 15.酷我音乐<br>
 16.MOMO陌陌<br>
 
-注册会员和NE+会员通用
-
- download/下载
-https://v1.nnnen.com/tools/Api/DownPlusNE
 
  使用方法
 
