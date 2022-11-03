@@ -2,6 +2,7 @@
 
 <br>
 帮助文档:https://www.nnnen.com/forums?index=3
+<br>
 支持的功能列表: https://wechat.nnnen.com/#/pages/index/set
 <br>
 
