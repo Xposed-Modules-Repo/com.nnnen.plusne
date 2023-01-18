@@ -11,7 +11,7 @@
 
 现阶段支持 <br><br>
 1.soul<br>
-2.TikTok<br>
+2.TikTok(免费使用功能 解除网络限制)<br>
 3.七猫免费小说<br>
 4.小红书<br>
 5.微博<br>
@@ -27,6 +27,9 @@
 15.酷我音乐<br>
 16.MOMO陌陌<br>
 17.皮皮搞笑<br>
+18.MX Player Pro(免费使用)<br>
+19.ES File Explorer<br>
+20.无他相机(免费使用)<br>
 
 
  使用方法
