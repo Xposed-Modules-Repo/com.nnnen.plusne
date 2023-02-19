@@ -8,6 +8,16 @@
 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.nnnen.plusne">   <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.nnnen.plusne/total">
 
+5.0版本 以下功能免费使用<br>
+[新增]->重力传感器拦截<br>
+[新增]->对话框拦截<br>
+[新增]->第三方唤醒拦截<br>
+[新增]->虚拟定位(暂不支持基站定位)<br>
+[新增]->阻止App读取安装列表<br>
+[新增]->替换手机一些信息<br>
+[新增]->伪造通讯录,让APP读取的是你的随机生成的电话<br>
+[新增]->自动跳过启动广告<br>
+
 
 现阶段支持 <br><br>
 1.soul<br>
