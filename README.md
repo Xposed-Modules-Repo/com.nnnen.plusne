@@ -1,4 +1,4 @@
-# PlusNE(NE+重置版)
+# PlusNE(5.0)
 
 <br>
 帮助文档:https://www.nnnen.com/forums?index=3
