@@ -7,7 +7,8 @@
 <br>
 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.nnnen.plusne">   <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.nnnen.plusne/total">
-
+微信聊天记录导出效果<br>
+<video src="https://img.nnnen.com/QQ%E5%BD%95%E5%B1%8F20230514145440.mp4"></video><br>
 5.0版本 以下功能免费使用<br>
 [新增]->重力传感器拦截<br>
 [新增]->对话框拦截<br>
