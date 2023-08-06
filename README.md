@@ -1,4 +1,4 @@
-# PlusNE(5.0)
+# PlusNE(6.*)
 
 <br>
 帮助文档:https://www.nnnen.com/forums?index=3
@@ -13,16 +13,6 @@
 <br>
 https://img.nnnen.com/QQ%E5%BD%95%E5%B1%8F20230514145440.mp4
 <br>
-5.0版本 以下功能免费使用<br>
-[新增]->重力传感器拦截<br>
-[新增]->对话框拦截<br>
-[新增]->第三方唤醒拦截<br>
-[新增]->虚拟定位(暂不支持基站定位)<br>
-[新增]->阻止App读取安装列表<br>
-[新增]->替换手机一些信息<br>
-[新增]->伪造通讯录,让APP读取的是你的随机生成的电话<br>
-[新增]->自动跳过启动广告<br>
-
 
 现阶段支持 <br><br>
 1.soul<br>
@@ -39,13 +29,11 @@ https://img.nnnen.com/QQ%E5%BD%95%E5%B1%8F20230514145440.mp4
 12.百度贴吧<br>
 13.皮皮虾<br>
 14.西瓜视频<br>
-15.酷我音乐<br>
-16.MOMO陌陌<br>
-17.皮皮搞笑<br>
-18.MX Player Pro(免费使用)<br>
-19.ES File Explorer<br>
-20.无他相机(免费使用)<br>
-21.小红书<br>
+15.MOMO陌陌<br>
+16.皮皮搞笑<br>
+17.MX Player Pro(免费使用)<br>
+18.ES File Explorer<br>
+19.小红书<br>
 
 
  使用方法
