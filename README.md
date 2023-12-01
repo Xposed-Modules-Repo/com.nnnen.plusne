@@ -7,9 +7,20 @@
 <br>
 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.nnnen.plusne">   <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.nnnen.plusne/total">
-<br>
-微信聊天记录导出效果<br>
-[![Watch the video](https://img.nnnen.com/QQ%E5%BD%95%E5%B1%8F20230514145440%5B00-00-00%5D%5B20230514-150059241%5D_%E7%88%B1%E5%A5%87%E8%89%BA.jpg)](https://img.nnnen.com/QQ%E5%BD%95%E5%B1%8F20230514145440.mp4)
+
+<br>新增微信密友(只支持全永久高级版使用)
+<br>功能列表
+<br>->管理密友列表           ->隐藏通讯录
+<br>->显示所有密友           ->隐藏聊天窗口
+<br>->隐藏所有密友           ->隐藏搜索记录
+<br>->锁屏自动隐藏           ->隐藏添加好友
+<br>->进入后台自动隐藏       ->隐藏朋友圈
+<br>->快捷隐藏按钮名称       ->隐藏语音通话
+<br>->伪造聊天窗口详情消息   ->隐藏视频通话
+<br>->隐藏通讯录            ->隐藏个人中心
+<br>->设置密友密码          ->双击快捷操作(隐藏显示密友)
+<br>->自动关闭聊天窗口      ->设置快捷操作密码
+
 <br>
 https://img.nnnen.com/QQ%E5%BD%95%E5%B1%8F20230514145440.mp4
 <br>
