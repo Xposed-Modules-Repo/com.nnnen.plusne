@@ -8,7 +8,7 @@
 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.nnnen.plusne">   <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.nnnen.plusne/total">
 
-<br>新增微信密友(只支持全永久高级版使用)
+<br>新增微信密友(8.0.43或以上可用)
 <br>功能列表
 <br>->管理密友列表           ->隐藏通讯录
 <br>->显示所有密友           ->隐藏聊天窗口
