@@ -5,7 +5,7 @@
 <br>
 支持的功能列表: https://pay.nnnen.com/index.html#/pages/index/set
 <br>
-
+PlusNE 7+版本 https://github.com/Xposed-Modules-Repo/me.plusne
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.nnnen.plusne">   <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.nnnen.plusne/total">
 
 <br>新增微信密友(8.0.43或以上可用)
